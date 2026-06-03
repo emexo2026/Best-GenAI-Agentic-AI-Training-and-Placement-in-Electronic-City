@@ -1,0 +1,2 @@
+# Best-GenAI-Agentic-AI-Training-and-Placement-in-Electronic-City
+🚀 Production-grade development repository for the GenAI &amp; Agentic AI Course in Electronic City. Build stateful multi-agent systems, cyclic graphs, and vector memory frameworks under the guidance of Mr. Gopal (15+ years experience) at eMexo Technologies. Includes 100% humanized enterprise implementation guides and placement resources.
